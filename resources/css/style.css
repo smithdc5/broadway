@@ -4,7 +4,7 @@ html {
 
 }
 
-header {
+.background {
   background-image: url("/Users/darin/Projects/Broadway/resources/the-flatiron-building.png");
   color: white;
 }
